@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Leakit
+- 👋 Hi, I’m Filipe
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning to do API
 - 💞️ I’m looking to collaborate on conecting data to agilplace
