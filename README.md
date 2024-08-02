@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MOMSTEELfilipemarques
+- 👋 Hi, I’m Leakit
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning to do API
 - 💞️ I’m looking to collaborate on conecting data to agilplace
